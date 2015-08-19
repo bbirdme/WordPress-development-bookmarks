@@ -1,6 +1,6 @@
 # WordPress development bookmarks
 
-++**NOTE:** This list is actually pulled from my GitHub repo via [Github README](https://wordpress.org/plugins/github-readme/) WordPress plugin, so if interested to update this list, let me know in the comment form below so I could add you as a contributor.++
+++**NOTE:** This list is actually pulled from my GitHub [repo](https://github.com/bbirdme/WordPress-development-bookmarks/blob/master/README.md) via [Github README](https://wordpress.org/plugins/github-readme/) WordPress plugin, so if interested to update this list, let me know in the comment form below so I could add you as a contributor.++
 
 ## Responsive design testing tools
 
