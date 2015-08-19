@@ -1,6 +1,6 @@
 # WordPress development bookmarks
 
-I will post some useful WordPress development resources here, links to online generators, tools, tutorials, etc. In other words – links I visit on a daily basis.
+++**NOTE:** This list is actually pulled from my GitHub repo via [Github README](https://wordpress.org/plugins/github-readme/) WordPress plugin, so if interested to update this list, let me know in the comment form below so I could add you as a contributor.++
 
 ## Responsive design testing tools
 
@@ -22,34 +22,35 @@ I will post some useful WordPress development resources here, links to online ge
 - [WordPress template hiearchy](http://wphierarchy.com/)
 - [GenerateWP - WordPress common snippet generator](http://generatewp.com/)
 - [WordPress Customizer controls and examples (official)](https://github.com/WPTRT/code-examples/tree/master/customizer)
+- [Default Scripts Included and Registered by WordPress](https://developer.wordpress.org/themes/basics/including-css-javascript/#default-scripts-included-and-registered-by-wordpress)
 
 ##  Theme review process (for wordpress.org themes)
 
-A Guide to Reviewing Themes for the WordPress Theme Repository
-Join the WordPress theme review team
-How To Join WPTRT
-Theme unit test
-Prefixing
-Theme review handbook
-Preliminary Theme Review Process
+- [A Guide to Reviewing Themes for the WordPress Theme Repository](http://www.chipbennett.net/2011/04/20/a-guide-to-reviewing-themes-for-the-wordpress-theme-repository/)
+- [Join the WordPress theme review team](http://justintadlock.com/archives/2011/04/14/join-the-wordpress-theme-review-team)
+- [How To Join WPTRT](https://make.wordpress.org/themes/about-old/how-to-join-wptrt/)
+- [Theme unit test](http://codex.wordpress.org/Theme_Unit_Test)
+- [Prefixing](http://themereview.co/category/tutorials/)
+- [Theme review handbook](https://make.wordpress.org/themes/handbook/review/required/)
+- [Preliminary Theme Review Process](https://make.wordpress.org/themes/2014/12/26/preliminary-theme-review-process/)
 
 ##  WordPress localization
 
-wplang.org - An excellent blog on multilingual WordPress website
-Poedit Official website (a piece of software you will likely need for any serious translation work - .po file editor)
-WPML.org - The most complete WordPress multilingual solution
+- [wplang.org - An excellent blog on multilingual WordPress website](http://wplang.org/)
+- [Poedit Official website](http://poedit.net/)
+- [WPML.org - The most complete WordPress multilingual solution](https://wpml.org/)
 
 ## CSS
 
-Hover.css
-JavaScript
-JavaScript libraries, frameworks, and plugins
-jQuery API
-jQuery Quick API Reference
-jQuery UI
-Default Scripts Included and Registered by WordPress
+- [Hover.css](http://ianlunn.github.io/Hover/)
+
+## JavaScript
+
+- [JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)
+- [jQuery API](https://api.jquery.com/)
+- [jQuery Quick API Reference](http://oscarotero.com/jquery/)
+- [jQuery UI](http://jqueryui.com/)
 
 ##  Blogs
 
-Otto on WordPress
-
+- [Otto on WordPress](http://ottopress.com/)
