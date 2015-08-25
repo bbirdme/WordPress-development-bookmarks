@@ -14,6 +14,10 @@
 - [Bootstrap 3 Grid Visual Builder](http://shoelace.io/)
 - [Code snippets for Bootstrap](http://bootsnipp.com)
 
+##  Communities
+
+- [Codepen](http://codepen.io/)
+
 ##  Theme development
 
 - [TGM Plugin Activation](http://tgmpluginactivation.com/)
