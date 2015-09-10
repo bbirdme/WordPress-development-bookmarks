@@ -32,7 +32,7 @@
 
 ##  Frameworks
 
-- ###General templates
+- ###Website frameworks
 
  - [Bootstrap](http://getbootstrap.com)
  - [Foundation](http://foundation.zurb.com)
