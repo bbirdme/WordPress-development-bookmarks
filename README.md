@@ -1,11 +1,12 @@
 # WordPress development bookmarks
 
 ----------------------------------------------------------------------------------------------------------------
+# Theme Development
 
-## Responsive design testing tools
+- ## Responsive design testing tools
 
-- [Screenfly](http://quirktools.com/screenfly)
-- [Cybercrab](http://cybercrab.com/screencheck)
+-- [Screenfly](http://quirktools.com/screenfly)
+-- [Cybercrab](http://cybercrab.com/screencheck)
 
 ##  Responsive frameworks
 
