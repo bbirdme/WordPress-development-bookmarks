@@ -1,6 +1,3 @@
-# WordPress development bookmarks
-
-----------------------------------------------------------------------------------------------------------------
 ## Theme development
 
 - ###General
@@ -23,6 +20,8 @@
  - [Theme review handbook](https://make.wordpress.org/themes/handbook/review/required/)
  - [Preliminary Theme Review Process](https://make.wordpress.org/themes/2014/12/26/preliminary-theme-review-process/)
 
+----------------------------------------------------------------------------------------------------------------
+
 ##  WordPress general bookmarks
 
 - ###Localization
@@ -30,6 +29,7 @@
  - [Poedit Official website](http://poedit.net/)
  - [WPML.org - The most complete WordPress multilingual solution](https://wpml.org/)
 
+----------------------------------------------------------------------------------------------------------------
 ##  Frameworks
 
 - ###Website frameworks
@@ -39,6 +39,7 @@
  - [Bootstrap 3 Grid Visual Builder](http://shoelace.io/)
  - [Code snippets for Bootstrap](http://bootsnipp.com)
 
+----------------------------------------------------------------------------------------------------------------
 ##  Communities and Blogs
 
 - ###Communities
@@ -50,6 +51,7 @@
  - [Otto on WordPress](http://ottopress.com/)
  - [wplang.org - A blog on multilingual WordPress websites](http://wplang.org/)
 
+----------------------------------------------------------------------------------------------------------------
 ## Frontend web development
 
 - ### Responsive design testing tools
@@ -70,6 +72,7 @@
  - [jQuery Quick API Reference](http://oscarotero.com/jquery/)
  - [jQuery UI](http://jqueryui.com/)
 
+----------------------------------------------------------------------------------------------------------------
 ## Web design
 
 - ### Fonts
