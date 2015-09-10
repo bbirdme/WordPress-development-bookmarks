@@ -63,3 +63,8 @@
 
 - [Web Font Generator](https://www.web-font-generator.com/)
 - [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
+
+##  Icons
+
+- [SocIcons](http://www.socicon.com/)
+- [IconsDB](http://www.iconsdb.com/)
