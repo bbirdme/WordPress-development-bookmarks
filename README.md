@@ -21,6 +21,13 @@
  - [Preliminary Theme Review Process](https://make.wordpress.org/themes/2014/12/26/preliminary-theme-review-process/)
 
 ----------------------------------------------------------------------------------------------------------------
+##  WordPress plugin development
+
+- ###General
+
+ - [WordPress plugin boilerplate generator](http://wppb.me/)
+
+----------------------------------------------------------------------------------------------------------------
 
 ##  WordPress general bookmarks
 
