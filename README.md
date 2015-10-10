@@ -86,7 +86,8 @@
 - ### Fonts
 
  - [Web Font Generator](https://www.web-font-generator.com/)
- - [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
+ - [Font Awesome](https://fortawesome.github.io/Font-Awesome/),
+ - [CSS Font Stack](http://www.cssfontstack.com/)
 
 - ### Icons
 
