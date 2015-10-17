@@ -64,6 +64,10 @@
 - ### Responsive design testing tools
   - [Screenfly](http://quirktools.com/screenfly)
   - [Cybercrab](http://cybercrab.com/screencheck)
+ 
+- ### PHP
+  
+ - [PHP formatter](http://beta.phpformatter.com/)
 
 - ### CSS
 
