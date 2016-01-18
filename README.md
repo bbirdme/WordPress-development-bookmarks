@@ -35,6 +35,7 @@
 
  - [Poedit Official website](http://poedit.net/)
  - [WPML.org - The most complete WordPress multilingual solution](https://wpml.org/)
+ - [Hookr.io plugin - Hookr augments pages to illustrate which actions & filters](http://hookr.io/plugin/)
 
 ----------------------------------------------------------------------------------------------------------------
 ##  Frameworks
@@ -74,6 +75,8 @@
  - [Dan's Tools (CSS minifiers, formatters, etc.)](http://www.danstools.com/)
  - [Hover.css](http://ianlunn.github.io/Hover/)
  - [ENJOY CSS](http://enjoycss.com/)
+ - [CSS Checkbox generator](http://www.csscheckbox.com/)
+ - [CSS Radio button generator](http://www.csscheckbox.com/radio-buttons/0/)
 
 - ### JavaScript
 
