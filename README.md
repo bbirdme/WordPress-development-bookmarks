@@ -36,6 +36,14 @@
  - [Poedit Official website](http://poedit.net/)
  - [WPML.org - The most complete WordPress multilingual solution](https://wpml.org/)
  - [Hookr.io plugin - Hookr augments pages to illustrate which actions & filters](http://hookr.io/plugin/)
+ 
+- ###WordPress Snippets
+
+ - [WP-SNIPPETS](http://wp-snippets.com/)
+ - [WPSNIPP](http://wpsnipp.com/)
+ - [WPRECIPES - Code Snippets](http://www.wprecipes.com/category/wordpress-hacks)
+ - [WP Code Snippet](http://wpcodesnippet.com/))
+ 
 
 ----------------------------------------------------------------------------------------------------------------
 ##  Frameworks
