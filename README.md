@@ -4,6 +4,7 @@
 
  - [TGM Plugin Activation](http://tgmpluginactivation.com/)
  - [Underscores starter template](http://underscores.me/)
+ - [Components starter template](http://components.underscores.me/)
  - [Theme Customizer tutorial](http://themefoundation.com/wordpress-theme-customizer/)
  - [WordPress template hiearchy](http://wphierarchy.com/)
  - [GenerateWP - WordPress common snippet generator](http://generatewp.com/)
