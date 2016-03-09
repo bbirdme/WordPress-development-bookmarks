@@ -96,6 +96,8 @@
  - [jQuery API](https://api.jquery.com/)
  - [jQuery Quick API Reference](http://oscarotero.com/jquery/)
  - [jQuery UI](http://jqueryui.com/)
+ - [jQuery Rain](http://www.jqueryrain.com/)
+ - [Isotope](http://isotope.metafizzy.co/)
 
 ----------------------------------------------------------------------------------------------------------------
 ## Web design
