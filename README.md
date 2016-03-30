@@ -87,10 +87,10 @@
  - [CSS Checkbox generator](http://www.csscheckbox.com/)
  - [CSS Radio button generator](http://www.csscheckbox.com/radio-buttons/0/)
 
- - ### Sass
+- ### Sass
 
- - [Bourbon mixins](http://bourbon.io/docs/)
  - [11 Mixin Libraries For Sass Designers Should Get](http://www.hongkiat.com/blog/mixin-library-for-sass/)
+ - [Bourbon mixins](http://bourbon.io/docs/)
 
 - ### JavaScript
 
