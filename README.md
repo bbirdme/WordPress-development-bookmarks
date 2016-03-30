@@ -95,6 +95,7 @@
 - ### JavaScript
 
  - [JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)
+ - [CDN library delivery](https://cdnjs.com/libraries)
 
 - ### jQuery
 
