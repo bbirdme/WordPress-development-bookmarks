@@ -118,3 +118,7 @@
 
  - [SocIcons](http://www.socicon.com/)
  - [IconsDB](http://www.iconsdb.com/)
+
+- ### Colors
+
+ - [Color Safe Color Combinations](http://colorsafe.co/)
