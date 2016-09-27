@@ -43,8 +43,8 @@
  - [WP-SNIPPETS](http://wp-snippets.com/)
  - [WPSNIPP](http://wpsnipp.com/)
  - [WPRECIPES - Code Snippets](http://www.wprecipes.com/category/wordpress-hacks)
- - [WP Code Snippet](http://wpcodesnippet.com/))
- 
+ - [WP Code Snippet](http://wpcodesnippet.com/)
+ - [Snipplr](http://snipplr.com/)
 
 ----------------------------------------------------------------------------------------------------------------
 ##  Frameworks
@@ -126,3 +126,9 @@
 - ### Colors
 
  - [Color Safe Color Combinations](http://colorsafe.co/)
+ 
+ ----------------------------------------------------------------------------------------------------------------
+ ## Freelancing
+ 
+ - [We Work Remotely](https://weworkremotely.com/)
+ - [Crossover](https://www.crossover.com/available-jobs/)
