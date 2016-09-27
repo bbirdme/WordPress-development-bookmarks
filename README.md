@@ -110,7 +110,7 @@
 ## Web design
 - ### General
 
-- [Codrops](http://tympanus.net/codrops/)
+ - [Codrops](http://tympanus.net/codrops/)
 
 - ### Fonts
 
